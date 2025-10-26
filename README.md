@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi there!
+🎓 Bachelor in Business Informatics
+💻 Aspiring Fullstack Developer
+🚀 Passionate about learning, building, and improving every day
 
-<!--
-**ervincolo/ervincolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Tech Stack
+🟨 JavaScript · 🟩 Node.js / Express.js · ⚛️ React
+🔺 NestJS · 🍃 MongoDB · 🔶 Kafka
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+📘 Advanced Backend with NestJS
+⚡ Scalable architectures & microservices
+☁️ Cloud & DevOps basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 About Me
+I enjoy solving problems, learning new technologies, and turning ideas into real web applications.
+Always curious — always improving. 🚀
+
+🤝 Connect with Me
+💼 www.linkedin.com/in/ervin-colo-43a36b15a
