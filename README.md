@@ -9,13 +9,12 @@
 ---
 
 ## 🧠 Tech Stack
-- 🟨 **JavaScript**  
+- 🟨 **JavaScript**
+- - ⚛️ **React**  
 - 🟩 **Node.js / Express.js**  
-- ⚛️ **React**  
 - 🔺 **NestJS**  
 - 🍃 **MongoDB**  
 - 🔶 **Kafka**
-
 ---
 
 ## 🌱 Currently Learning
