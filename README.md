@@ -10,7 +10,7 @@
 
 ## 🧠 Tech Stack
 - 🟨 **JavaScript**
-- - ⚛️ **React**  
+- ⚛️ **React**  
 - 🟩 **Node.js / Express.js**  
 - 🔺 **NestJS**  
 - 🍃 **MongoDB**  
